@@ -1,0 +1,5 @@
+{
+  "env": {
+    "NPN_CONFIG_PRODUCTION": "false"
+  }
+}
